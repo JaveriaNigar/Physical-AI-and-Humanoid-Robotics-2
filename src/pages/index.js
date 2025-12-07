@@ -31,7 +31,7 @@ function HomepageHeader() {
             </Link>
             <Link
               className={styles.secondaryButton}
-              to="https://github.com/Danishhshahid/Physical-AI-Humanoid-Robotics-Book">
+              to="https://github.com/JaveriaNigar/Physical-AI-and-Humanoid-Robotics-2">
               ⭐ View on GitHub
             </Link>
           </div>
@@ -211,10 +211,10 @@ function CommunitySection() {
           This is an open-source project by the GIAIC Community. Contribute, ask questions, and build together.
         </p>
         <div className={styles.communityLinks}>
-          <a href="https://github.com/Danishhshahid" className={styles.communityLink}>
+          <a href="https://github.com/JaveriaNigar" className={styles.communityLink}>
             👨‍💻 Author GitHub
           </a>
-          <a href="https://www.linkedin.com/in/danish-shahid-abbasi-6952a42b5/" className={styles.communityLink}>
+          <a href="https://www.linkedin.com/in/javeria-nigar-252b312b5/" className={styles.communityLink}>
             💼 Author LinkedIn
           </a>
           <a href="https://www.governorsindh.com" className={styles.communityLink}>

@@ -7,7 +7,7 @@ export default {
   "title": "Physical AI & Humanoid Robotics Book",
   "tagline": "Free, open-source textbook created by Javeria Nigar for the GIAIC Community",
   "favicon": "img/favicon.ico",
-  "url": "https://physical-ai-humanoid-robotics-book-tan.vercel.app",
+  "url": "https://physical-ai-humanoid-robotics-2zp6.vercel.app/",
   "baseUrl": "/",
   "organizationName": "Danishhshahid",
   "projectName": "Physical-AI-Humanoid-Robotics-Book",
@@ -61,12 +61,12 @@ export default {
           "label": "Textbook"
         },
         {
-          "href": "https://github.com/Danishhshahid",
+          "href": "https://github.com/JaveriaNigar",
           "label": "Author (GitHub)",
           "position": "right"
         },
         {
-          "href": "https://www.linkedin.com/in/danish-shahid-abbasi-6952a42b5",
+          "href": "https://www.linkedin.com/in/javeria-nigar-252b312b5/",
           "label": "LinkedIn",
           "position": "right"
         }
@@ -110,11 +110,11 @@ export default {
           "items": [
             {
               "label": "Author GitHub",
-              "href": "https://github.com/Danishhshahid"
+              "href": "https://github.com/JaveriaNigar"
             },
             {
               "label": "Author LinkedIn",
-              "href": "https://www.linkedin.com/in/danish-shahid-abbasi-6952a42b5/"
+              "href": "https://www.linkedin.com/in/javeria-nigar-252b312b5/"
             }
           ]
         },

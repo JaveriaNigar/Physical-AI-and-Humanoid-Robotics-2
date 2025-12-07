@@ -9,7 +9,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production URL of this site here
-  url: 'https://physical-ai-humanoid-robotics-book-tan.vercel.app/',
+  url: 'https://physical-ai-humanoid-robotics-2zp6.vercel.app/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For Vercel deployment, use root path '/'
   baseUrl: '/',
@@ -69,12 +69,12 @@ const config = {
             label: 'Textbook',
           },
           {
-            href: 'https://github.com/Danishhshahid',
+            href: 'https://github.com/JaveriaNigar',
             label: 'Author (GitHub)',
             position: 'right',
           },
           {
-            href: 'https://www.linkedin.com/in/danish-shahid-abbasi-6952a42b5',
+            href: 'https://www.linkedin.com/in/javeria-nigar-252b312b5/',
             label: 'LinkedIn',
             position: 'right',
           },
@@ -122,7 +122,7 @@ const config = {
               },
               {
                 label: 'Author LinkedIn',
-                href: 'https://www.linkedin.com/in/danish-shahid-abbasi-6952a42b5/',
+                href: 'https://www.linkedin.com/in/javeria-nigar-252b312b5/',
               },
             ],
           },
