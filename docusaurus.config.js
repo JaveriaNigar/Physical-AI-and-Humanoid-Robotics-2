@@ -5,7 +5,7 @@ const rehypeKatex = require('rehype-katex').default;
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Physical AI & Humanoid Robotics Book',
-  tagline: 'Free, open-source textbook created by Danish Abbasi for the GIAIC Community',
+  tagline: 'Free, open-source textbook created by Javeria Nigar for the GIAIC Community',
   favicon: 'img/favicon.ico',
 
   // Set the production URL of this site here
@@ -145,7 +145,7 @@ const config = {
           },
         ],
         copyright: `
-          MIT License © 2025 Created by <strong>Danish Abbasi</strong> for <strong>GIAIC Community</strong><br/>
+          MIT License © 2025 Created by <strong>Javeria Nigar</strong> for <strong>GIAIC Community</strong><br/>
           <em>Physical AI & Humanoid Robotics Essentials</em><br/>
           Built with Docusaurus | Hosted on GitHub Pages<br/>
           <a href="https://github.com/GIAIC-Community/Physical-AI-Textbook/blob/master/LICENSE">License</a>
@@ -157,7 +157,7 @@ const config = {
       announcementBar: {
         id: 'announcement',
         content:
-          'Created by Danish Abbasi for GIAIC Community - Free Textbook for Humanoid Robotics & AI',
+          'Created by Javeria Nigar for GIAIC Community - Free Textbook for Humanoid Robotics & AI',
         isCloseable: true,
       },
     }),

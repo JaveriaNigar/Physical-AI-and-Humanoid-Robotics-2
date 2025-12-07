@@ -41,7 +41,7 @@ function HomepageHeader() {
           /> */}
           <div className={styles.createdBy}>
             <p>
-              Created by <strong>Danish Abbasi</strong> for the <strong>GIAIC Community</strong><br/>
+              Created by <strong>Javeria Nigar</strong> for the <strong>GIAIC Community</strong><br/>
               <em>Free educational resource for the hackathon and beyond</em>
             </p>
           </div>
@@ -232,7 +232,7 @@ function CreditSection() {
       <div className={styles.container}>
         <h3>👨‍💻 Creator & Contribution</h3>
         <p>
-          <strong>Created by Danish Abbasi</strong> for the GIAIC Community
+          <strong>Created by Javeria Nigar</strong> for the GIAIC Community
         </p>
         <p className={styles.creditText}>
           This textbook was designed as a free educational resource for the GIAIC Hackathon and broader robotics community.
